@@ -1,4 +1,6 @@
-<img src="banner_github.png" alt="Banner do GitHub" width="100%" />
+<div style="text-align: center;">
+  <img src="profile-banner.png" alt="Banner do Perfil" width="50%">
+</div>
 
 # Olá, Mundo! Sou Arthur, um Entusiasta de Desenvolvimento Web 👋:
 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
@@ -20,10 +22,10 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 # 📊 Minhas Estatísticas no GitHub:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Arthur&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=znltto&show_icons=true&theme=radical)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthur/Arthur/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthur/Arthur/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Arthur/Arthur/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/znltto/znltto/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/znltto/znltto/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/znltto/znltto/output/github-snake.svg" />
 </picture>
